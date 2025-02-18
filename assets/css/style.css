@@ -52,3 +52,8 @@ footer {
     object-position: center; /* Asegura que la imagen esté centrada dentro del contenedor */
     margin: 10px; /* Ajusta según necesidad */
 }
+
+.diego_g {
+    color: yellow;
+    font-size: 2vw;
+}
